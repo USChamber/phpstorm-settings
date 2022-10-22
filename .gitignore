@@ -1,0 +1,11 @@
+# IDE
+/.idea
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# MacOS System
+.DS_Store
