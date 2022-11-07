@@ -49,6 +49,9 @@
     <option name="TABLE_DEFAULTS_ALIGN" value="false" />
     <option name="TABLE_NULLABILITIES_ALIGN" value="false" />
   </SqlCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
